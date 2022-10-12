@@ -11,7 +11,7 @@ Comme requit, ce projet:
     - `TextFileReader`
     - `AudioFileReader`
     - `ImageFileReader`
-- implémente 3 types de lecteurs de fichiers textes
+- implémente 3 types de lecteurs de fichiers texte
     - `TextFileReaderGeneric`
     - `TextFileReaderReverse`
     - `TextFileReaderPalindrome`
