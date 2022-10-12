@@ -22,7 +22,7 @@ Voici le schéma UML
 
 ## Compilation
 
-Le point d'entré du programme étant dans la fonctione main de la classe Main, c'est le fichier Main.java qui nous intéresse.
+Le point d'entré du programme étant dans la fonction main de la classe Main, c'est le fichier Main.java qui nous intéresse.
 
 ```
 javac Main.java
@@ -36,5 +36,5 @@ java Main
 
 ## Details de l'implémentation
 
-Les détails de l'implémentation sont développés dans les commentaires de mon code.
+Les détails de l'implémentation sont expliqués dans les commentaires de mon code.
 
