@@ -2,6 +2,8 @@ public interface FileReader {
 
     // defines the contract that FileReaders have to fulfill
 
+    public byte[] read();
+
     // view file contents
     
     public void viewContents();
